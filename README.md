@@ -5,6 +5,6 @@
 - [2. Algo & DS](./algorithms-data-structure)
 - [3. HTML & CSS](./HTML-CSS)
 <br>
-- [개발 BLOG](https://code-history.tistory.com/)
-
-Today I Learned..
+[개발 BLOG](https://code-history.tistory.com/)
+<br>
+**Today I Learned..**
